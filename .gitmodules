@@ -1,3 +1,8 @@
 [submodule "001_bacteria"]
 	path = 001_bacteria
 	url = https://github.com/aith/bacteria
+
+
+[submodule "002_snakeskin"]
+	path = 002_snakeskin
+	url = https://github.com/aith/sketch_of_snakeskin.git
