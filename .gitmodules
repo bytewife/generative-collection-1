@@ -2,7 +2,39 @@
 	path = 001_bacteria
 	url = https://github.com/aith/bacteria
 
-
 [submodule "002_snakeskin"]
 	path = 002_snakeskin
 	url = https://github.com/aith/sketch_of_snakeskin.git
+
+001_bacteria     004_old_tower           007_worleypool         README.md
+002_snakeskin    005_noisemap            008_small_pig_big_mud
+003_seasontiles  006_phone_a_lighthouse  009_pocket_roguelike
+
+[submodule "003_seasontiles"]
+	path = 003_seasontiles
+	url = https://github.com/aith/seasontiles.git
+
+[submodule "004_old_tower"]
+	path = 004_old_tower
+	url = https://github.com/aith/old_tower.git
+
+[submodule "005_noisemap"]
+	path = 005_noisemap
+	url = https://github.com/aith/noisemap.git
+
+[submodule "006_phone_a_lighthouse"]
+	path = 006_phone_a_lighthouse
+	url = https://github.com/aith/phone-a-lighthouse.git
+
+[submodule "007_worleypool"]
+	path = 007_worleypool
+	url = https://github.com/aith/worleypool.git
+
+[submodule "008_small_pig_big_mud"]
+	path = 008_small_pig_big_mud
+	url = https://github.com/aith/small-pig-big-mud.git
+
+[submodule "009_pocket_roguelike"]
+	path = 009_pocket_roguelike
+	url = https://github.com/aith/pocket-roguelike
+
