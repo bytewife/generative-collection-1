@@ -1,0 +1,3 @@
+[submodule "bacteria"]
+	path = bacteria
+	url = https://github.com/aith/bacteria
