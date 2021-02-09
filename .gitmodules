@@ -6,10 +6,6 @@
 	path = 002_snakeskin
 	url = https://github.com/aith/sketch_of_snakeskin.git
 
-001_bacteria     004_old_tower           007_worleypool         README.md
-002_snakeskin    005_noisemap            008_small_pig_big_mud
-003_seasontiles  006_phone_a_lighthouse  009_pocket_roguelike
-
 [submodule "003_seasontiles"]
 	path = 003_seasontiles
 	url = https://github.com/aith/seasontiles.git
