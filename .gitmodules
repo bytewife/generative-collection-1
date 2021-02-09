@@ -24,7 +24,7 @@
 
 [submodule "007_worleypool"]
 	path = 007_worleypool
-	url = https://github.com/aith/worleypool.git
+	url = https://github.com/aith/worley-pool.git
 
 [submodule "008_small_pig_big_mud"]
 	path = 008_small_pig_big_mud
