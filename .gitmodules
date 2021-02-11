@@ -34,3 +34,6 @@
 	path = 009_pocket_roguelike
 	url = https://github.com/aith/pocket-roguelike
 
+[submodule "010_subdivine_earth"]
+	path = 010_subdivine_earth
+	url = https://github.com/aith/subdivine_earth
