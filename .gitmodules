@@ -37,3 +37,8 @@
 [submodule "010_subdivine_earth"]
 	path = 010_subdivine_earth
 	url = https://github.com/aith/subdivine_earth
+
+
+[submodule "011_chaikin_scratch"]
+	path = 010_chaikin_scratch
+	url = https://github.com/aith/chaikin_scratch
