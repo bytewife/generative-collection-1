@@ -46,3 +46,11 @@
 [submodule "012_triangle_stencils"]
 	path = 012_triangle_stencils
 	url = https://github.com/aith/triangle-stencils
+
+[submodule "013_eye_of_the_storm"]
+	path = 013_eye_of_the_storm
+	url = https://github.com/aith/eye-of-the-storm
+
+# [submodule ""]
+# 	path = 
+# 	url = 
