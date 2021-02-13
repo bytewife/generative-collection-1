@@ -42,3 +42,7 @@
 [submodule "011_chaikin_scratch"]
 	path = 010_chaikin_scratch
 	url = https://github.com/aith/chaikin_scratch
+
+[submodule "012_triangle_stencils"]
+	path = 012_triangle_stencils
+	url = https://github.com/aith/triangle-stencils
