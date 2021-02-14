@@ -38,9 +38,8 @@
 	path = 010_subdivine_earth
 	url = https://github.com/aith/subdivine_earth
 
-
 [submodule "011_chaikin_scratch"]
-	path = 010_chaikin_scratch
+	path = 011_chaikin_scratch
 	url = https://github.com/aith/chaikin_scratch
 
 [submodule "012_triangle_stencils"]
@@ -50,6 +49,10 @@
 [submodule "013_eye_of_the_storm"]
 	path = 013_eye_of_the_storm
 	url = https://github.com/aith/eye-of-the-storm
+
+[submodule "014_onset_insomnia"]
+	path = 014_onset_insomnia
+	url = https://github.com/aith/onset-insomnia
 
 # [submodule ""]
 # 	path = 
