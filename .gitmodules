@@ -54,6 +54,10 @@
 	path = 014_onset_insomnia
 	url = https://github.com/aith/onset-insomnia
 
+[submodule "015_cyclic_dungeon_generator"]
+	path = 015_cyclic_dungeon_generator
+	url = https://github.com/aith/cyclic-dungeon-generator
+
 # [submodule ""]
 # 	path = 
 # 	url = 
