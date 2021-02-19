@@ -58,6 +58,10 @@
 	path = 015_cyclic_dungeon_generator
 	url = https://github.com/aith/cyclic-dungeon-generator
 
+[submodule "016_easel_monkeys"]
+	path = 016_easel_monkeys
+	url = https://github.com/aith/easel-monkeys
+
 # [submodule ""]
 # 	path = 
 # 	url = 
