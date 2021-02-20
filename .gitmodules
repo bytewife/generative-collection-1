@@ -62,6 +62,10 @@
 	path = 016_easel_monkeys
 	url = https://github.com/aith/easel-monkeys
 
+[submodule "017_advice_for_busy_bots"]
+	path = 017_advice_for_busy_bots
+	url = https://github.com/aith/advice-for-busy-bots
+
 # [submodule ""]
 # 	path = 
 # 	url = 
