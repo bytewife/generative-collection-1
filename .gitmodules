@@ -66,6 +66,10 @@
 	path = 017_advice_for_busy_bots
 	url = https://github.com/aith/advice-for-busy-bots
 
+[submodule "018_baleful_blue"]
+	path = 018_baleful_blue
+	url = https://github.com/aith/baleful-blue
+
 # [submodule ""]
 # 	path = 
 # 	url = 
