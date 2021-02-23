@@ -70,6 +70,11 @@
 	path = 018_baleful_blue
 	url = https://github.com/aith/baleful-blue
 
+[submodule "019_grammar_obscura"]
+	path = 019_grammar_obscura
+	url = Nhttps://aith.github.io/grammar-obscura/
+
+
 # [submodule ""]
 # 	path = 
 # 	url = 
