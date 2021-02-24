@@ -72,8 +72,11 @@
 
 [submodule "019_grammar_obscura"]
 	path = 019_grammar_obscura
-	url = Nhttps://aith.github.io/grammar-obscura/
+	url = https://aith.github.io/grammar-obscura/
 
+[submodule "020_fish_school"]
+	path = 020_fish_school
+	url = https://aith.github.io/fish-school/
 
 # [submodule ""]
 # 	path = 
