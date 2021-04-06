@@ -78,6 +78,10 @@
 	path = 020_fish_school
 	url = https://aith.github.io/fish-school/
 
+[submodule "021_floss_after_skittles"]
+	path = 020_floss_after_skittles
+	url = https://github.com/aith/floss-after-skittles
+
 # [submodule ""]
 # 	path = 
 # 	url = 
