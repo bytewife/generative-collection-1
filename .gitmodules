@@ -1,90 +1,90 @@
 [submodule "001_bacteria"]
 	path = 001_bacteria
-	url = https://github.com/aith/bacteria
+	url = https://github.com/ivyraine/bacteria
 
 [submodule "002_snakeskin"]
 	path = 002_snakeskin
-	url = https://github.com/aith/sketch_of_snakeskin.git
+	url = https://github.com/ivyraine/sketch_of_snakeskin.git
 
 [submodule "003_seasontiles"]
 	path = 003_seasontiles
-	url = https://github.com/aith/seasontiles.git
+	url = https://github.com/ivyraine/seasontiles.git
 
 [submodule "004_old_tower"]
 	path = 004_old_tower
-	url = https://github.com/aith/old_tower.git
+	url = https://github.com/ivyraine/old_tower.git
 
 [submodule "005_noisemap"]
 	path = 005_noisemap
-	url = https://github.com/aith/noisemap.git
+	url = https://github.com/ivyraine/noisemap.git
 
 [submodule "006_phone_a_lighthouse"]
 	path = 006_phone_a_lighthouse
-	url = https://github.com/aith/phone-a-lighthouse.git
+	url = https://github.com/ivyraine/phone-a-lighthouse.git
 
 [submodule "007_worleypool"]
 	path = 007_worleypool
-	url = https://github.com/aith/worley-pool.git
+	url = https://github.com/ivyraine/worley-pool.git
 
 [submodule "008_small_pig_big_mud"]
 	path = 008_small_pig_big_mud
-	url = https://github.com/aith/small-pig-big-mud.git
+	url = https://github.com/ivyraine/small-pig-big-mud.git
 
 [submodule "009_pocket_roguelike"]
 	path = 009_pocket_roguelike
-	url = https://github.com/aith/pocket-roguelike
+	url = https://github.com/ivyraine/pocket-roguelike
 
 [submodule "010_subdivine_earth"]
 	path = 010_subdivine_earth
-	url = https://github.com/aith/subdivine_earth
+	url = https://github.com/ivyraine/subdivine_earth
 
 [submodule "011_chaikin_scratch"]
 	path = 011_chaikin_scratch
-	url = https://github.com/aith/chaikin_scratch
+	url = https://github.com/ivyraine/chaikin_scratch
 
 [submodule "012_triangle_stencils"]
 	path = 012_triangle_stencils
-	url = https://github.com/aith/triangle-stencils
+	url = https://github.com/ivyraine/triangle-stencils
 
 [submodule "013_eye_of_the_storm"]
 	path = 013_eye_of_the_storm
-	url = https://github.com/aith/eye-of-the-storm
+	url = https://github.com/ivyraine/eye-of-the-storm
 
 [submodule "014_onset_insomnia"]
 	path = 014_onset_insomnia
-	url = https://github.com/aith/onset-insomnia
+	url = https://github.com/ivyraine/onset-insomnia
 
 [submodule "015_cyclic_dungeon_generator"]
 	path = 015_cyclic_dungeon_generator
-	url = https://github.com/aith/cyclic-dungeon-generator
+	url = https://github.com/ivyraine/cyclic-dungeon-generator
 
 [submodule "016_easel_monkeys"]
 	path = 016_easel_monkeys
-	url = https://github.com/aith/easel-monkeys
+	url = https://github.com/ivyraine/easel-monkeys
 
 [submodule "017_advice_for_busy_bots"]
 	path = 017_advice_for_busy_bots
-	url = https://github.com/aith/advice-for-busy-bots
+	url = https://github.com/ivyraine/advice-for-busy-bots
 
 [submodule "018_baleful_blue"]
 	path = 018_baleful_blue
-	url = https://github.com/aith/baleful-blue
+	url = https://github.com/ivyraine/baleful-blue
 
 [submodule "019_grammar_obscura"]
 	path = 019_grammar_obscura
-	url = https://aith.github.io/grammar-obscura/
+	url = https://ivyraine.github.io/grammar-obscura/
 
 [submodule "020_fish_school"]
 	path = 020_fish_school
-	url = https://aith.github.io/fish-school/
+	url = https://ivyraine.github.io/fish-school/
 
 [submodule "021_floss_after_skittles"]
 	path = 021_floss_after_skittles
-	url = https://github.com/aith/floss-after-skittles
+	url = https://github.com/ivyraine/floss-after-skittles
 
 [submodule "022_floss_after_skittles"]
 	path = 022_attractor_godot
-	url = https://aith.github.io/attractor-godot/
+	url = https://ivyraine.github.io/attractor-godot/
 
 # [submodule ""]
 # 	path = 
